@@ -5,3 +5,8 @@ ul {
 a {
     color: blue;
 }
+@media screen and (max-width: 900px) {
+    ul {
+        columns: 3;
+    }
+}
