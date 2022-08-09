@@ -1,5 +1,4 @@
 function makeElement(wordObject) {
-    
     const word = document.createElement('a');
     word.innerText =wordObject.value;
     word.setAttribute('href',wordObject.page)
