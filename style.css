@@ -7,6 +7,6 @@ a {
 }
 @media screen and (max-width: 900px) {
     ul {
-        columns: 3;
+        columns: 2;
     }
 }
