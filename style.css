@@ -4,6 +4,7 @@ ul {
 }
 a {
     color: blue;
+    text-decoration: none;
 }
 @media screen and (max-width: 900px) {
     ul {
